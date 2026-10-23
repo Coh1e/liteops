@@ -1,0 +1,8 @@
+Vim full-screen test dependency (not a product component)
+Source page: https://www.vim.org/download.php
+Fixed ZIP: https://www.vim.org/downloads/gvim_9.2.0000_x64.zip
+ZIP SHA256: 67af58b69f693913817daefa18bb681a37063bb3eba1c926730d9c89cd4832d0
+Native vim.exe SHA256: cf02d533ef7ba4fc58e0b530ec2517fd4b416bd5366e9149d962a7ba71bd45a8
+Extracted only under tests/tools/vim-9.2.0000-x64; no installer or global configuration changes.
+Original ZIP and included license/runtime retained locally; tests/tools is excluded from published source/portable packages.
+The recorded digest identifies this download; it is not an independent publisher-signature assertion.
